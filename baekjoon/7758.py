@@ -5,7 +5,7 @@ for i in range(n):
     if status == 'enter':
         name_set.add(name)
     else:
-        name_set = name_set - {name}
+        name_set.remove(name)
 
 # print(name_set)
 
