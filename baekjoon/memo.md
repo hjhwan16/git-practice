@@ -39,3 +39,4 @@ birthdays.sort(key = lambda x: (x[1], x[2], x[3]))
 
             print(count)
             ```
+      2. count 배열의 원소를 누적합 값으로 갱신해 줌. 이 작업은 arr에 담긴 원로를 바로 정렬된 위치로 삽입하기 위한 사전작업
