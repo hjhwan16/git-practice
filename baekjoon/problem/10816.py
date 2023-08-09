@@ -7,6 +7,17 @@
 N = int(input())
 # 상근이 카드 배열 
 arr1 = list(map(int, input().split()))
+arr1.sort()
 
 M = int(input())
 arr2 = list(map(int, input().plit()))
+
+# 이진탐색 하면서 갯수 카운트?
+for num in arr2:
+    answer = 0
+    start = 0
+    end = N - 1
+    while start <= end:
+        center = (start + end) // 2
+        if num == arr1[center]:
+            
