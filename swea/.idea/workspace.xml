@@ -2,29 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9085b1-fcb1-4ee6-afc1-5fd7df31bf0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack20230809/4866/4866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/4866/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/4873/4873.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/4873/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/pascal/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack20230809/pascal/pascal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baekjoon/problem/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baekjoon/problem/10816.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/1219/1219.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/1219/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/4869/4869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/4869/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/4871/4871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/4871/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230810/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr2_2_230803/1954/1954.py" beforeDir="false" afterPath="$PROJECT_DIR$/arr2_2_230803/1954/1954.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr2_2_230803/1954/1954_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/arr2_2_230803/1954/1954_me.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arr2_2_230803/1954/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/arr2_2_230803/1954/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str1_20230807/10804/10804.py" beforeDir="false" afterPath="$PROJECT_DIR$/str1_20230807/10804/10804.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str1_20230807/10804/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/str1_20230807/10804/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str1_20230807/5432/5432.py" beforeDir="false" afterPath="$PROJECT_DIR$/str1_20230807/5432/5432.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/1213/1213.py" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/1213/1213.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/1213/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/1213/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/1215/1215.py" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/1215/1215.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/1215/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/1215/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/3143/3143.py" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/3143/3143.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/3143/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/3143/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/KMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/KMP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str2_20230808/moore.py" beforeDir="false" afterPath="$PROJECT_DIR$/str2_20230808/moore.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +46,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Python.pascal">
-    <configuration name="1954" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1219">
+    <configuration name="1219" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arr2_2_230803/1954" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/1219" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arr2_2_230803/1954/1954.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/1219/1219.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1954_me" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4869" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arr2_2_230803/1954" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/4869" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arr2_2_230803/1954/1954_me.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/4869/4869.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4866" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack20230809/4866" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/4871" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack20230809/4866/4866.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/4871/4871.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4873" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack20230809/4873" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack20230809/4873/4873.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1219" />
+        <item itemvalue="Python.4869" />
+        <item itemvalue="Python.4871" />
+        <item itemvalue="Python.ex" />
         <item itemvalue="Python.pascal" />
-        <item itemvalue="Python.4873" />
-        <item itemvalue="Python.4866" />
-        <item itemvalue="Python.1954_me" />
-        <item itemvalue="Python.1954" />
       </list>
     </recent_temporary>
   </component>
