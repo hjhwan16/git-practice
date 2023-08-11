@@ -38,4 +38,4 @@ for tc in range(1, T+1):
         if word[i] == ')' and word[i-1] != '(':
             cnt -= 1
     ans = total + iorn
-    print(ans)
+    print(f'#{tc} {ans}')

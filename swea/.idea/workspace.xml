@@ -2,14 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9085b1-fcb1-4ee6-afc1-5fd7df31bf0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/1219/1219.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/1219/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/4869/4869.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/4869/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/4871/4871.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/4871/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_20230810/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baekjoon/problem/11274.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baekjoon/problem/2579.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/10026/10026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/10026/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1012/1012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1012/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/2667/2667.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/2667/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/9251/9251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/9251/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baekjoon/problem/24479 copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../baekjoon/problem/24479 copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/1234/1234.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/1234/1234.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/1234/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/1234/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/1961/1961.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/1961/1961.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/1961/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/1961/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/9489/9489.py" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/9489/9489.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prob2_20230811/9489/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prob2_20230811/9489/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/str1_20230807/5432/5432.py" beforeDir="false" afterPath="$PROJECT_DIR$/str1_20230807/5432/5432.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +57,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Python.1219">
-    <configuration name="1219" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.9251">
+    <configuration name="10026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/1219" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/10026" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/1219/1219.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/10026/10026.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4869" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/4869" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prob2_20230811/1234" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/4869/4869.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob2_20230811/1234/1234.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1859" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810/4871" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prob2_20230811/1859" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/4871/4871.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prob2_20230811/1859/1859.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2667" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230810" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/2667" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230810/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/2667/2667.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pascal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9251" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack20230809/pascal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/9251" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack20230809/pascal/pascal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/9251/9251.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1219" />
-        <item itemvalue="Python.4869" />
-        <item itemvalue="Python.4871" />
-        <item itemvalue="Python.ex" />
-        <item itemvalue="Python.pascal" />
+        <item itemvalue="Python.9251" />
+        <item itemvalue="Python.10026" />
+        <item itemvalue="Python.2667" />
+        <item itemvalue="Python.1234" />
+        <item itemvalue="Python.1859" />
       </list>
     </recent_temporary>
   </component>
