@@ -29,7 +29,7 @@ for x in fx:
             top += 1
             stack[top] = x
 
-print(s)
+print(s, stack)
 
 stack = [0]*100
 top = -1

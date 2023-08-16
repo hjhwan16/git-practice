@@ -21,7 +21,7 @@ for tc in range(1, 11):
                 stack.append(x)
     if stack:
         s += stack.pop()
-    
+    print(s)
     # 후위 연산자 계산해주기
     stack = []
     for x in s:

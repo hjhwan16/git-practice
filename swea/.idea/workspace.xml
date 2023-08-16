@@ -2,14 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9085b1-fcb1-4ee6-afc1-5fd7df31bf0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/1222/1222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/1222/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/4874/4874.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/4874/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/4875/4875.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/4875/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack2_2_202308141/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1918/1918.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1918/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1935/1935.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1935/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/5397/5397.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/20230816/20230816.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/20230816/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/20230816/new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/4880/4880.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/4880/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/4881/4881.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/4881/4881_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/4881/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack2_20230816/ex7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack2_2_202308141/1222/1222.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_2_202308141/1222/1222.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack2_2_202308141/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack2_2_202308141/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +61,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Python.4875">
-    <configuration name="1222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\git-practice\swea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1918">
+    <configuration name="1918" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_2_202308141/1222" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/1918" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_2_202308141/1222/1222.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/1918/1918.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4874" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20230816" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_2_202308141/4874" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230816/20230816" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_2_202308141/4874/4874.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230816/20230816/20230816.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4875" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4880" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_2_202308141/4875" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230816/4880" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_2_202308141/4875/4875.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230816/4880/4880.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9251" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4881" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/9251" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack2_20230816/4881" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/9251/9251.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack2_20230816/4881/4881.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4875" />
-        <item itemvalue="Python.1222" />
-        <item itemvalue="Python.4874" />
+        <item itemvalue="Python.1918" />
         <item itemvalue="Python.ex" />
-        <item itemvalue="Python.9251" />
+        <item itemvalue="Python.4880" />
+        <item itemvalue="Python.4881" />
+        <item itemvalue="Python.20230816" />
       </list>
     </recent_temporary>
   </component>
