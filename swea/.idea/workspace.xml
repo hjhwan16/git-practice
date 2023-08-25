@@ -2,16 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e9085b1-fcb1-4ee6-afc1-5fd7df31bf0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/5176/5176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/5176/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/inorder/inorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/inorder/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/subtree/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree_20230821/subtree/subtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/12873.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/18352.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/5464.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10163/10163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10163/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10431/10431.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10431/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/1063/1063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/1063/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10709/10709.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/10709/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/2559/2559.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/2578/2578.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/2578/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/swea1949/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IM/swea1949/swea1949.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230821/inorder/inorder2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/5177/5177.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/5177/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/5178/5178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/5178/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/day9_extra/day9_extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/day9_extra/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/day9_hw/day9_hw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/day9_hw/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree_20230822/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/11659.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/11725.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/15829/21736.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/1991.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/2178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/5639.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/9372.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon_pycharm/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start2_20230824/bit2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start2_20230824/ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +47,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Stub" />
         <option value="Python Script" />
       </list>
     </option>
@@ -55,12 +81,14 @@
       <recent name="C:\Users\SSAFY\Desktop\git-practice\swea\Queue_20230817\5099" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\git-practice\swea\IM\10709" />
+      <recent name="C:\Users\SSAFY\Desktop\git-practice\swea\Tree_20230822\5177" />
       <recent name="C:\Users\SSAFY\Desktop\git-practice\swea\Queue_20230817" />
       <recent name="C:\Users\SSAFY\Desktop\git-practice\swea" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.18352">
-    <configuration name="18352" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1620">
+    <configuration name="1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/18352.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/1003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5176" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11659" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree_20230821/5176" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree_20230821/5176/5176.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/11659.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree_20230821" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree_20230821/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/1620.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inorder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21736" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree_20230821/inorder" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm/15829" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree_20230821/inorder/inorder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/15829/21736.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subtree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2178" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tree_20230821/subtree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon_pycharm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree_20230821/subtree/subtree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon_pycharm/2178.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18352" />
-        <item itemvalue="Python.5176" />
-        <item itemvalue="Python.ex" />
-        <item itemvalue="Python.subtree" />
-        <item itemvalue="Python.inorder" />
+        <item itemvalue="Python.1620" />
+        <item itemvalue="Python.21736" />
+        <item itemvalue="Python.1003" />
+        <item itemvalue="Python.2178" />
+        <item itemvalue="Python.11659" />
       </list>
     </recent_temporary>
   </component>
