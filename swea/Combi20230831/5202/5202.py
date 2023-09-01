@@ -1,3 +1,4 @@
+# 강의 실 배정
 import sys
 sys.stdin = open('input.txt')
 
