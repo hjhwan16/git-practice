@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d70650-3aa2-4f24-933a-41a0657b6a82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230905/2596.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230905/2621.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230905/ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230906/10164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230906/6987.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230906/8979.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230907/2302.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230907/2622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230907/6988.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230908/2512.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230908/2597.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230911/1138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230911/12919.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230911/21921.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230912/17484.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +45,8 @@
       <recent name="C:\Users\SSAFY\Desktop\git-practice\baekjoon\20230904" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10164">
-    <configuration name="10164" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.17484">
+    <configuration name="1138" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230906" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230911" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230906/10164.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230911/1138.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2621" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17484" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230905" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230912" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230905/2621.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230912/17484.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6987" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21921" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230906" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230911" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230906/6987.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230911/21921.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8979" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2512" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230906" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230908" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230906/8979.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230908/2512.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2597" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230905" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230908" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230905/ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230908/2597.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10164" />
-        <item itemvalue="Python.6987" />
-        <item itemvalue="Python.8979" />
-        <item itemvalue="Python.2621" />
-        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.17484" />
+        <item itemvalue="Python.1138" />
+        <item itemvalue="Python.21921" />
+        <item itemvalue="Python.2512" />
+        <item itemvalue="Python.2597" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +191,11 @@
           <url>file://$PROJECT_DIR$/baekjoon/20230904/1038.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baekjoon/20230912/17484.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
