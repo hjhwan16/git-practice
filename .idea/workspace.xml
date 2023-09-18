@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d70650-3aa2-4f24-933a-41a0657b6a82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230914/1927.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230914/2688.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230914/2688_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230914/4179.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230918/14620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230918/7570.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5204/5204.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5204/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5205/5205.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5205/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5207/5207.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/5207/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/binarySearch_20230918/Bs_recur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/20230913/16234.py" beforeDir="false" afterPath="$PROJECT_DIR$/baekjoon/20230913/16234.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +50,8 @@
       <recent name="C:\Users\SSAFY\Desktop\git-practice\baekjoon\20230904" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16234">
-    <configuration name="11501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5204">
+    <configuration name="14620" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230913" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230918" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230913/11501.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230918/14620.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13549" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5204" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230912" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/binarySearch_20230918/5204" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230912/13549.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/binarySearch_20230918/5204/5204.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16234" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5205" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230913" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/binarySearch_20230918/5205" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230913/16234.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/binarySearch_20230918/5205/5205.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24337" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5207" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230912" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/binarySearch_20230918/5207" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230912/24337.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/binarySearch_20230918/5207/5207.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2531" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7570" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230912" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230918" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230912/2531.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230918/7570.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16234" />
-        <item itemvalue="Python.11501" />
-        <item itemvalue="Python.24337" />
-        <item itemvalue="Python.13549" />
-        <item itemvalue="Python.2531" />
+        <item itemvalue="Python.5204" />
+        <item itemvalue="Python.5205" />
+        <item itemvalue="Python.5207" />
+        <item itemvalue="Python.7570" />
+        <item itemvalue="Python.14620" />
       </list>
     </recent_temporary>
   </component>
