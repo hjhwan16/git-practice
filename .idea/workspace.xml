@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69d70650-3aa2-4f24-933a-41a0657b6a82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/1149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/1149_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/15654.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/15657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/1932.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/202309020/19949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baekjoon/20230919/18870.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/1238/1238.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/1238/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/5247/5247.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/5247/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/5248/5248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/5248/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/dfs_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swea/Graph_20230920/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230922/1446.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon/20230922/1916.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5249/5249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5249/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5250/5250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5250/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5251/5251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/5251/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/dijkstra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/kruskal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swea/MST_20230921/prim.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +48,8 @@
       <recent name="C:\Users\SSAFY\Desktop\git-practice\baekjoon\20230904" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1932">
-    <configuration name="1149" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1916">
+    <configuration name="1446" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/202309020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230922" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/202309020/1149.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230922/1446.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1149_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1916" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/202309020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/20230922" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/202309020/1149_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/20230922/1916.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15654" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5249" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/202309020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/MST_20230921/5249" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/202309020/15654.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/MST_20230921/5249/5249.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15657" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5250" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/202309020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/MST_20230921/5250" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/202309020/15657.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/MST_20230921/5250/5250.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1932" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5251" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon/202309020" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/swea/MST_20230921/5251" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/202309020/1932.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swea/MST_20230921/5251/5251.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1932" />
-        <item itemvalue="Python.1149_2" />
-        <item itemvalue="Python.1149" />
-        <item itemvalue="Python.15657" />
-        <item itemvalue="Python.15654" />
+        <item itemvalue="Python.1916" />
+        <item itemvalue="Python.1446" />
+        <item itemvalue="Python.5250" />
+        <item itemvalue="Python.5249" />
+        <item itemvalue="Python.5251" />
       </list>
     </recent_temporary>
   </component>
